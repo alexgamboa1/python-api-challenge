@@ -1,0 +1,14 @@
+
+
+Observations
+
+1. The negative latitude of the graph from City Latitude vs. Max Temperature had lower amounts of data based 
+on the insignificant amount of cities in the lower hemisphere. 
+
+2. There seems to be no real correlation in humidity between the different cities in the City Latitude vs. Humidity 
+graph based on latitude. This can also be said of the cloudiness among the different cities. Where there is no 
+direct correlation of cloudiness to weather patterns. 
+
+3. From the sample of cities that are based on City Latitude vs. Wind Speed have below a 10 mph wind speed. 
+That means that most of the globe is not windy and this variation of wind speed did not show a difference in other 
+win conditions. 
